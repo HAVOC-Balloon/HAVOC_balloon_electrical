@@ -6915,6 +6915,16 @@
 		)
 		(uuid "88d7c933-a4b0-4e6f-a926-27353d5a85d7")
 	)
+	(text "penis"
+		(exclude_from_sim no)
+		(at 151.13 205.486 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "8f704d9d-5811-49f0-b5da-63af1307903c")
+	)
 	(text "HIGH Power LED"
 		(exclude_from_sim no)
 		(at 200.025 105.41 0)
