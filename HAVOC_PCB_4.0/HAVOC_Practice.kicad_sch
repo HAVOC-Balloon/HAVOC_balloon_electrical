@@ -6853,7 +6853,7 @@
 	)
 	(text "Components"
 		(exclude_from_sim no)
-		(at 88.265 78.74 0)
+		(at 88.646 63.246 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7380,7 +7380,7 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 78.74) (xy 108.585 78.74)
+			(xy 99.06 78.74) (xy 108.585 78.74)
 		)
 		(stroke
 			(width 0)
@@ -7810,16 +7810,6 @@
 	)
 	(wire
 		(pts
-			(xy 112.395 116.84) (xy 107.95 116.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "49bc77e2-afe9-434c-8c0d-3fd93995113b")
-	)
-	(wire
-		(pts
 			(xy 106.045 133.35) (xy 110.49 133.35)
 		)
 		(stroke
@@ -7860,16 +7850,6 @@
 	)
 	(wire
 		(pts
-			(xy 112.395 116.84) (xy 112.395 120.65)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4c925bc4-93d2-42f3-8074-560844742a9e")
-	)
-	(wire
-		(pts
 			(xy 138.43 24.765) (xy 143.51 24.765)
 		)
 		(stroke
@@ -7890,7 +7870,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.045 120.65) (xy 112.395 120.65)
+			(xy 106.045 120.65) (xy 111.76 120.65)
 		)
 		(stroke
 			(width 0)
@@ -13413,7 +13393,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 101.6 78.74 0)
+		(at 99.06 78.74 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13422,7 +13402,7 @@
 		(fields_autoplaced yes)
 		(uuid "9290ff9f-638f-47db-b8b5-85f7c5b007e7")
 		(property "Reference" "#PWR032"
-			(at 101.6 82.55 0)
+			(at 99.06 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13431,7 +13411,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 101.6 74.295 0)
+			(at 99.06 74.295 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13439,7 +13419,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 101.6 78.74 0)
+			(at 99.06 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13448,7 +13428,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 101.6 78.74 0)
+			(at 99.06 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13457,7 +13437,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 101.6 78.74 0)
+			(at 99.06 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15003,7 +14983,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 107.95 116.84 0)
+		(at 111.76 120.65 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15012,7 +14992,7 @@
 		(fields_autoplaced yes)
 		(uuid "c00afeda-4063-4dca-a463-a358c45e76c0")
 		(property "Reference" "#PWR06"
-			(at 107.95 120.65 0)
+			(at 111.76 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15021,7 +15001,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 107.95 112.395 0)
+			(at 111.76 116.205 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15029,7 +15009,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 107.95 116.84 0)
+			(at 111.76 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15038,7 +15018,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 107.95 116.84 0)
+			(at 111.76 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15047,7 +15027,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 107.95 116.84 0)
+			(at 111.76 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
