@@ -6925,6 +6925,16 @@
 		)
 		(uuid "8f704d9d-5811-49f0-b5da-63af1307903c")
 	)
+	(text "six seven"
+		(exclude_from_sim no)
+		(at 101.854 174.244 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "ae1271d9-84be-4c2d-b3ad-5801c0f1e8b1")
+	)
 	(text "HIGH Power LED"
 		(exclude_from_sim no)
 		(at 200.025 105.41 0)
