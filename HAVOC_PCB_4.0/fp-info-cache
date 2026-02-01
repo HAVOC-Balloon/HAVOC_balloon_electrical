@@ -1,4 +1,4 @@
-25651208410173069
+25653016642222218
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -93807,6 +93807,13 @@ S6B-XH-SM4-TB
 8
 8
 SHC
+GPS_BATT
+
+
+0
+2
+2
+SHC
 GPSant
 
 
@@ -93903,7 +93910,7 @@ SOT223-5_DIO-M
 AZ1117IH-5.0TRG1 
 0
 4
-4
+3
 SHC
 SPI_SD
 
