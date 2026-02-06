@@ -14698,7 +14698,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "\nRT1062 Teensy 4.1 series ARM® Cortex®-M7 MPU Embedded Evaluation Board\n"
+		(property "Description" "RT1062 Teensy 4.1 series ARM® Cortex®-M7 MPU Embedded Evaluation Board"
 			(at 42.545 127 0)
 			(effects
 				(font
