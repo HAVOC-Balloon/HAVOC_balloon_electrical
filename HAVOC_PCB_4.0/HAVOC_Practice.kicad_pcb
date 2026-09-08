@@ -12363,15 +12363,15 @@
 			(uuid "ceee55e0-f1e1-4f0f-8184-4858fe05401b")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-34_SOD68_P2.54mm_Vertical_KathodeUp.wrl"
+		(model "${KIPRJMOD}/../3D_models/Diode.stp"
 			(offset
-				(xyz 0 0 0)
+				(xyz -2.5 0 4)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 90)
 			)
 		)
 	)
@@ -13194,15 +13194,15 @@
 			(uuid "9438cbd2-24a4-4152-8228-bbcf8fd091ca")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-34_SOD68_P2.54mm_Vertical_KathodeUp.wrl"
+		(model "${KIPRJMOD}/../3D_models/Diode.stp"
 			(offset
-				(xyz 0 0 0)
+				(xyz -2.5 0 4)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 90)
 			)
 		)
 	)
@@ -16017,6 +16017,17 @@
 			(uuid "47a8cbfb-f891-4752-bb52-268911d020bc")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/../3D_models/pin-header-female-1.snapshot.13/pin header female 2.54mm_0.1in.STEP"
+			(offset
+				(xyz -1.5 -1.5 8.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -90)
+			)
+		)
 	)
 	(footprint "SHC:SOT23_DMG3406_DIO"
 		(layer "F.Cu")
@@ -16708,13 +16719,24 @@
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/../3D_models/d24v50f5-step-down-voltage-regulator (3).step"
 			(offset
-				(xyz -7.6 -10.2 0)
+				(xyz -7.6 -10.2 1.5)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
 				(xyz -0 -0 -0)
+			)
+		)
+		(model "${KIPRJMOD}/../3D_models/header-male-1.snapshot.1/Header male/1x5.STEP"
+			(offset
+				(xyz -2 -9 1.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 90 -0 90)
 			)
 		)
 	)
@@ -26127,6 +26149,17 @@
 			(uuid "61534b2a-515c-4b9c-81bb-c43dc0393b41")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/../3D_models/NEO-M9N-00B.STEP"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "SHC:SOT223-5_DIO-M"
 		(layer "F.Cu")
@@ -26656,6 +26689,17 @@
 			(uuid "60f3d486-97ba-473d-8dcf-0c6707a40d18")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/../3D_models/saros3V3.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 		(layer "B.Cu")
